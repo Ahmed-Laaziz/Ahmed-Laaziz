@@ -1,6 +1,7 @@
+[![MasterHead](https://camo.githubusercontent.com/5b1d292467a7b41f288e50d450674ef3cfb99862405c58b6d440957ae3519c22/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Laaziz</h1>
 <h3 align="center">Data Engineering Student from Morocco</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-laaziz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-laaziz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-laaziz" alt="ahmed-laaziz" /></a> </p>
