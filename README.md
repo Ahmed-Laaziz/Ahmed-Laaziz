@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/cb25086bafb0466a9a206a408040afdf9f83ee320bbf89bc8471ee3f96f54419/68747470733a2f2f7777772e6974666d732e636f6d2f696d672f6769662f6164646f6e2e676966)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Laaziz</h1>
 <h3 align="center">Data Engineering Student from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
