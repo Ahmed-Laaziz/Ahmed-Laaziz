@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Laaziz</h1>
-<h3 align="center">Data Engineering Student from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-laaziz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-laaziz" /> </p>
 
@@ -12,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-laaziz-4b2168218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-laaziz-4b2168218" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmed laaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed laaziz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed laaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed laaziz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
